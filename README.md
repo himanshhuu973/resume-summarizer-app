@@ -37,5 +37,5 @@ To accelerate candidate screening and recruitment workflows by automatically dis
 
 1. **Clone repository:**
    ```bash
-   git clone [https://github.com/himanshhuu973/resume-summarizer-app.git](https://github.com/himanshhuu973/resume-summarizer-app.git)
+   git clone (https://github.com/himanshhuu973/resume-summarizer-app.git)
    cd resume-summarizer-app
